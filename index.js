@@ -29,6 +29,9 @@ function spin() {
   } else {
     spinnerThreeEl.classList.remove("seven")
   }
+
+document.getElementById(yay)
+
 }
 
 spin()
