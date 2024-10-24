@@ -11,6 +11,9 @@ function spin() {
   slotValueOne.innerText = valueOne
   slotValueTwo.innerText = valueTwo
   slotValueThree.innerText = valueThree
+  if (valueOne = 7) {
+    
+  }
 }
 
 spin()
