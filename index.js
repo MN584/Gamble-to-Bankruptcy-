@@ -29,6 +29,9 @@ function spin() {
   } else {
     spinnerThreeEl.classList.remove("seven")
   }
+  if (valueOne == 7 && valueTwo == 7 && valueThree == 7) {
+    
+  }
 
 document.getElementById(yay)
 
